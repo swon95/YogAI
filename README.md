@@ -58,8 +58,8 @@ AI 모델을 기반으로 사용자가 취하는 자세가 올바른지 판별�
 올바른 자세를 하고있는지 판별해주는 기능을 담고있습니다.<br>
 
 <div align='center'>
-<image align="left" width="400" height="450" src='https://user-images.githubusercontent.com/96659041/205118931-c6510f75-188a-403a-9907-718473d33b63.png'/>
-<image align="right" width="400" height="450" src='https://user-images.githubusercontent.com/96659041/205122655-c3f85443-a876-4fdd-aca1-3a21d2951041.png'/>
+<image align="left" width="350" height="400" src='https://user-images.githubusercontent.com/96659041/205118931-c6510f75-188a-403a-9907-718473d33b63.png'/>
+<image align="right" width="350" height="400" src='https://user-images.githubusercontent.com/96659041/205122655-c3f85443-a876-4fdd-aca1-3a21d2951041.png'/>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 기대효과
