@@ -51,11 +51,50 @@ AI 모델을 기반으로 사용자가 취하는 자세가 올바른지 판별�
 
 
 ## 사용된 AI 모델
+텐서플로우의 MoveNet 모델을 활용하였고,<br>
+무브넷 모델은 텐서플로우의 경량화된 모델로 운동, 춤 등의 데이터셋을 기반으로 학습된 모델입니다.<br>
+17개의 keypoint 를 기반으로 초당 30개의 프레임에 대해 이미지를 분석하고.<br>
+웹 캠에 비춰지는 사용자의 관절을 스켈레톤 형태로 인식하여<br>
+올바른 자세를 하고있는지 판별해주는 기능을 담고있습니다.<br>
+
 <div align='center'>
-<image align="left" width="450" height="500" src='https://user-images.githubusercontent.com/96659041/205118931-c6510f75-188a-403a-9907-718473d33b63.png'/>
-<image align="right" width="450" height="500" src='https://user-images.githubusercontent.com/96659041/205122655-c3f85443-a876-4fdd-aca1-3a21d2951041.png'/>
+<image align="left" width="400" height="450" src='https://user-images.githubusercontent.com/96659041/205118931-c6510f75-188a-403a-9907-718473d33b63.png'/>
+<image align="right" width="400" height="450" src='https://user-images.githubusercontent.com/96659041/205122655-c3f85443-a876-4fdd-aca1-3a21d2951041.png'/>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## 기대효과
+이 서비스를 이용함으로써 얻을 수 있는 가장 큰 기대효과로는 경제성 입니다.<br>
+접근성이 다소 낮은 요가를 배우기 전 단계로<br>
+탑재된 AI 모델을 통해 <br>
+무료로 시간과 공간의 제약 없이 집에서 손쉽게 자세를 익힘으로써 <br>
+얻을 수 있는 비용 절감의 효과를 강조할 수 있습니다.<br>
+![image](https://user-images.githubusercontent.com/96659041/205225351-17a27d5a-4e0c-46c0-a0c5-2fb1116456d8.png)
+
+
 
 ## 🎥 시연 영상
 https://github.com/swon95/YogAI/blob/main/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.mp4<br>
 (👆 시연 영상 참고 - 다운로드 권장)
+
+<br><br><br>
+## 회고
+### 개선사항
+추가되었으면 하는 기능으로는,<br>
+커뮤니티성이 돋보이는 역할을 위한 기능으로<br>
+게시물에 댓글을 남길 수 있는 기능과 <br>
+사용자간의 교류를 위해 웹 소켓을 활용한 실시간 채팅 기능,<br>
+기존 AI 모델에 학습된 자세보다 더 많은 자세를 학습시켜<br>
+다양한 자세를 경험할 수 있는 기능을 추가하려했지만,<br>
+시간관계상 개발하지 못하였고 추후 개선사항으로 추가 할 계획을 갖고있습니다.<br>
+![image](https://user-images.githubusercontent.com/96659041/205225694-ceca4a92-7b26-4e55-ab75-9a89d9e884b0.png)
+
+### 아쉬운점
+이번 프로젝트를 진행하며 아쉬운점으로<br>
+수업과 병행해 진행하는 프로젝트였기 때문에<br> 
+몰입하여 진행하는 기간 이전에는 온라인으로 소통하려 했으나<br>
+소통의 부재로 인해 다소 어려움을 느꼇고,<br>
+이를 통해 소통 및 협업에 대한 중요성을 다시금 느끼게 되었습니다.<br><br>
+
+또한,<br>
+생소한 라이브러리와 협업하기 위해 사용한<br>
+깃허브에 대한 사용법이 익숙하지 않아 다소 어려움을 겪었습니다.
