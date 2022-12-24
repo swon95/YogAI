@@ -6,6 +6,10 @@
 'YogA!' 팀은 인공지능 모델이 탑재된 웹 서비스를 개발하기 위해 모인 팀으로<br>
 팀 명은 'Yoga' 와 'Ai' 가 합쳐진 합성어 입니다.<br>
 
+
+##  ⏯ 프로젝트 실행
+- 
+
 ## Contributors
 ![image](https://user-images.githubusercontent.com/96659041/205021051-ca7acd82-5f16-48ef-b8af-2cc40488812a.png)
 
